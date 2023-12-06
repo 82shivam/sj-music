@@ -1,4 +1,4 @@
-console.log("Welcom to spotyfy");
+console.log("Welcom to sj music");
 
 //initialize the variables
 
